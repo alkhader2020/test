@@ -1,2 +1,1 @@
-# test
-TEST
+arabic_test
